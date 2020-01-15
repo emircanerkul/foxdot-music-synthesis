@@ -4,6 +4,7 @@
 
 | Name of Piece | Code | Listen |
 | :--- | :---: | :---: |
+| **Almost Done**  |  [![Python Code](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)](https://github.com/emircanerkul/music-synthesis/blob/master/pieces/almost_done.py) | [![SoundCloud](https://img.shields.io/badge/SoundCloud-orange?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/emircanerkul/almost-done)  |
 | **Insist**  |  [![Python Code](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)](https://github.com/emircanerkul/music-synthesis/blob/master/pieces/insist.py) | [![SoundCloud](https://img.shields.io/badge/SoundCloud-orange?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/emircanerkul/insist)  |
 
 
